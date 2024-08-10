@@ -56,6 +56,8 @@ There are 2 major vulnerabilties reported - the first one is related to OpenSSL 
 It says that Impact Versions of Express.js prior to 4.19.2 and pre-release alpha and beta versions before 5.0.0-beta.3 are affected by an open redirect vulnerability using malformed URLs. 
 That means we need to update our Express v4.17.3 to 4.19.2
 
+## Updated - 10 Aug: The OpenSSL vulnerability has already been fixed. Only Express-specific vulnerabilities are medium severity.
+
 
 <img width="1030" alt="image" src="https://github.com/user-attachments/assets/af409b26-92d5-4cec-812f-e1498a8e9d14">
 
